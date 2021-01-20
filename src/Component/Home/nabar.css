@@ -1,0 +1,22 @@
+.basket{
+   
+    margin-top: 15px;
+    color: white;
+    padding-right: 10px;
+}
+.basket > span{
+    padding-left: 10px;
+}
+.flt{
+    float: left
+}
+.sign-in{
+    color: white;
+    margin-top: 15px;
+    
+
+}
+.sign-in a{
+    text-decoration: none;
+    color: gold;
+}

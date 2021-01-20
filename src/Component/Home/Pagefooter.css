@@ -1,0 +1,29 @@
+  
+@media only screen and (min-width: 700px){
+    .page-footer {
+        padding: 80px 40px;
+    }
+}
+
+
+.page-footer {
+    float: inline-end;
+    margin: 0 auto;
+    max-width: 1600px;
+    width: 100%;
+    background-color: black;
+    padding: 40px 20px;
+    border: gray 1px;
+    text-align: center;
+    
+    
+}
+
+.page-footer li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+    text-decoration: underline;
+    font-size: x-small;
+   
+}
